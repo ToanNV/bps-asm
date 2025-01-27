@@ -170,3 +170,4 @@ cython_debug/
 # PyPI configuration file
 .pypirc
 /.idea
+input_data/udemy_ms_powerbi/expected_factInternetSales.csv
