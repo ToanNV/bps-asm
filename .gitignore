@@ -171,3 +171,4 @@ cython_debug/
 .pypirc
 /.idea
 input_data/udemy_ms_powerbi/expected_factInternetSales.csv
+input_data/rossmann_store_sales/processed_train.csv
