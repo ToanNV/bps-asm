@@ -173,3 +173,4 @@ cython_debug/
 input_data/udemy_ms_powerbi/expected_factInternetSales.csv
 input_data/rossmann_store_sales/processed_train.csv
 input_data/rossmann_store_sales/sales_train_all.csv
+/.claude
